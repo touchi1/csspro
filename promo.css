@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    /* background-color: yellow; */
+}
+
+p{
+    color: blue;
+    font-size: 25px;
+}
+#big{
+    background-color: red;
+    font-size: 24px;
+}
+.gee{
+    background-color: brown;
+    font-size: 2rem;
+}
+.nine{
+    font-size:32px ;
+    background-color: red;
+}
+.door{
+    color: green;
+    text-align: center;
+}
+#vee{
+    color: brown;
+    text-transform: capitalize;
+    font-size: 34px;
+}.be{
+    background-color: yellow;
+    font-size: 34px;
+}
+.cut{
+    background-color: yellow;
+    text-transform: capitalize;
+}
+div{
+    text-transform: capitalize;
+    font-size: 34px;
+    background-color: chartreuse;
+}
+div{
+    font-size: 24px ;
+    background-color: blueviolet;
+}
+
